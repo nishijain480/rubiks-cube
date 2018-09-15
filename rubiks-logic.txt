@@ -1,1 +1,2 @@
-
+mark the color at the top layer of your cube.
+make a plus symbol at the middle in top layer.
