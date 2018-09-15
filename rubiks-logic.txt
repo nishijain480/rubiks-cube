@@ -1,6 +1,5 @@
-mark the color at the top layer of your cube.
-make a plus symbol at  middle, in top layer.
-now we need to bring the 4 corner pieces in their right position.
-so their are 3 posibilities   a) the piece lies in the bottom layer in front of you     b) the pies lies in the bottom layer ,facing earth
-c) the face lies in the top layer ,but not in correct position.
+Now proceding to make the middle layer.
+the center piece are already fix.
+you just need to set the side pieces
+now look in the 
 
