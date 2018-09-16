@@ -1,5 +1,18 @@
-Now proceding to make the middle layer.
-the center piece are already fix.
-you just need to set the side pieces
-now look in the 
+NOW 
+MAKING THE MIDDLE LAYER
+
+The center pieces are already fix.
+we just need to set the 4 side pieces.
+These pieces in last and middle layer
+first mark the color in center to bottom layer(facing earth) and search only, those 2 color pieces that do not contain the bottom layer fix color piece.                                                                                                                                       CASE 1:
+(when bottom layer contains pieces without the color similar to the color of fix center piece facing the earth )
+Bring that piece in front to the side having center piece color same as its color.
+Now look at the other color on the selected piece,this coloured fix fix would be either left or write to it                                    case (a) if it is at left  apply DLD'L'                                                                                                    case(b) if it is at right apply D'R'DR
+Now you will see that your top set piece get disturbed,so solve it as you did in top layer solving algo,automatically one piece in middle layer will get set.                                                                                                                                  CASE 2:
+(when bottom layer do not contain pieces without the unwanted color ,that means out target piece lies in center layer).
+First bring that piece in bottom layer ,to do this apply     R'DR
+Now one of your set piece in top layer will get switched,so solve it as you did while solving first layer2 by doing this our target piece comes to bottom layer so apply CASE 1 their.
+Doing this 4 times for all 4 pieces,our midddle layer will get solved.
+
+
 
