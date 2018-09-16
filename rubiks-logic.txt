@@ -1,6 +1,9 @@
-mark the color at the top layer of your cube.
-make a plus symbol at  middle, in top layer.
-now we need to bring the 4 corner pieces in their right position.
-so their are 3 posibilities   a) the piece lies in the bottom layer in front of you     b) the pies lies in the bottom layer ,facing earth
-c) the face lies in the top layer ,but not in correct position.
+we solve the cube in layers
+First we solve the top layer ,then middle layer and finally the last layer
+Now
+SOLVING THE FIRST LAYER
+Mark the color at the top layer of your cube.
+Make a plus symbol at  middle, in top layer.
+Now we need to bring at  corners ,the 3 faces cube in their right position.
+After this our first layer is solved.
 
